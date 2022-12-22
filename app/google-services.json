@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "307010333336",
+    "project_id": "mercador2-742a9",
+    "storage_bucket": "mercador2-742a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307010333336:android:9d9bfb8c5fea5a4cd43eed",
+        "android_client_info": {
+          "package_name": "com.example.metodosfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307010333336-vn4sd3g0bf4ar2o7pb23vt8koa1thiir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGiVqeb4BlkzzjilEf3H_DbASGdbIFPFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307010333336-vn4sd3g0bf4ar2o7pb23vt8koa1thiir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307010333336:android:c8943b2ab8142ea5d43eed",
+        "android_client_info": {
+          "package_name": "com.teste.teste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307010333336-vn4sd3g0bf4ar2o7pb23vt8koa1thiir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGiVqeb4BlkzzjilEf3H_DbASGdbIFPFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307010333336-vn4sd3g0bf4ar2o7pb23vt8koa1thiir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

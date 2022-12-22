@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MetodosFirebase</string>
+    <string name="titulo_form_cadastro">CADASTRE-SE</string>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+    <string name="button_cadastrar">Cadastrar</string>
+</resources>
