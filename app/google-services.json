@@ -1,62 +1,33 @@
 {
   "project_info": {
-    "project_number": "307010333336",
-    "project_id": "mercador2-742a9",
-    "storage_bucket": "mercador2-742a9.appspot.com"
+    "project_number": "47211603918",
+    "project_id": "newmetodosfirebase",
+    "storage_bucket": "newmetodosfirebase.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:307010333336:android:9d9bfb8c5fea5a4cd43eed",
+        "mobilesdk_app_id": "1:47211603918:android:30eabf9b78527db9b82d9f",
         "android_client_info": {
-          "package_name": "com.example.metodosfirebase"
+          "package_name": "com.example.newmetodosfirebase"
         }
       },
       "oauth_client": [
         {
-          "client_id": "307010333336-vn4sd3g0bf4ar2o7pb23vt8koa1thiir.apps.googleusercontent.com",
+          "client_id": "47211603918-ma7tb1fqsu046i30j2gt5ak4vp0i9h81.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBGiVqeb4BlkzzjilEf3H_DbASGdbIFPFg"
+          "current_key": "AIzaSyDrq8bSFu-bmwk1IRjhHsZQ6q4FiVPAbQY"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "307010333336-vn4sd3g0bf4ar2o7pb23vt8koa1thiir.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:307010333336:android:c8943b2ab8142ea5d43eed",
-        "android_client_info": {
-          "package_name": "com.teste.teste"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "307010333336-vn4sd3g0bf4ar2o7pb23vt8koa1thiir.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBGiVqeb4BlkzzjilEf3H_DbASGdbIFPFg"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "307010333336-vn4sd3g0bf4ar2o7pb23vt8koa1thiir.apps.googleusercontent.com",
+              "client_id": "47211603918-ma7tb1fqsu046i30j2gt5ak4vp0i9h81.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

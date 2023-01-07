@@ -1,10 +1,13 @@
 package com.example.metodosfirebase.view.formcadastro
 
+import android.content.Intent
 import android.graphics.Color
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.example.metodosfirebase.R
 import com.example.metodosfirebase.databinding.ActivityFormCadastroBinding
+import com.example.metodosfirebase.view.formdados.FormDados
+import com.example.metodosfirebase.view.telaprincipal.TelaPrincipal
 import com.google.android.material.snackbar.Snackbar
 import com.google.firebase.FirebaseNetworkException
 import com.google.firebase.auth.FirebaseAuth
@@ -38,6 +41,9 @@ class FormCadastro : AppCompatActivity() {
                         snackbar.show()
                         binding.editEmail.setText("")
                         binding.editSenha.setText("")
+                        val intent = Intent(this, FormDados::class.java)
+                        startActivity(intent)
+                        finish()
                     }
 
                 }.addOnFailureListener{ exception ->
